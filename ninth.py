@@ -12,4 +12,3 @@ def not_string_two(str):
         return 'not ' + str
     else:
         return str
-    
